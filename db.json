@@ -1,0 +1,39 @@
+{
+  "userDetails": [
+    {
+      "name": "Rolex",
+      "email": "Rolex@gmail.com",
+      "phone": "123456789",
+      "address": "Mumbai-sasonDack",
+      "id": 2
+    },
+    {
+      "name": "Leo",
+      "email": "leo@gmail.com",
+      "phone": "1234567890",
+      "address": "Kashmir",
+      "id": 3
+    },
+    {
+      "name": "JohnDoe",
+      "email": "johndoe@gmail.com",
+      "phone": "1234567890",
+      "address": "America",
+      "id": 4
+    },
+    {
+      "name": "Arjun",
+      "email": "arjun@gmail.com",
+      "phone": "123456789",
+      "address": "Chennai",
+      "id": 5
+    },
+    {
+      "name": "Amar",
+      "email": "amar@gmail.com",
+      "phone": "123456789",
+      "address": "Kashmir",
+      "id": 6
+    }
+  ]
+}
